@@ -48,7 +48,8 @@
 <body>
     <div class="container">
         <h1>PDF and Text Summarization</h1>
-        <p>This repository contains Python scripts and tools for summarizing both PDF documents and plain text files. The scripts leverage natural language processing (NLP) techniques to extract key information and generate concise summaries.</p>
+        <p>This repository contains a Flask-based web application along with Python scripts and tools for summarizing both PDF documents and plain text files. The scripts leverage natural language processing (NLP) techniques to extract key information and generate concise summaries.</p>
+    
         <h2>Features</h2>
         <ul>
             <li><strong>PDF Summarization:</strong> Extract text from PDF documents and generate a summary.</li>
@@ -66,12 +67,7 @@
             <li>Clone this repository to your local machine:
                 <pre><code>git clone https://github.com/your-username/pdf-text-summarization.git</code></pre>
             </li>
-            <li>Navigate to the project directory:
-                <pre><code>cd pdf-text-summarization</code></pre>
-            </li>
-            <li>Install the required Python packages:
-                <pre><code>pip install -r requirements.txt</code></pre>
-            </li>
+           
         </ol>
         <h2>Usage</h2>
         <h3>PDF Summarization</h3>
