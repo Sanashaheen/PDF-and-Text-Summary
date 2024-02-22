@@ -10,6 +10,8 @@
     <div class="container">
         <h1>PDF and Text Summarization</h1>
         <p>This repository contains a Flask-based web application along with Python scripts and tools for summarizing both PDF documents and plain text files. The scripts leverage natural language processing (NLP) techniques to extract key information and generate concise summaries.</p>
+          <img src="im.png" alt="Web App Screenshot" style="max-width: 100%; height: auto;">
+
         <h2>Features</h2>
         <ul>
             <li><strong>PDF Summarization:</strong> Extract text from PDF documents and generate a summary.</li>
